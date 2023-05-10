@@ -1,0 +1,12 @@
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\bin\Debug\CRUD_TEST.exe.config
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\bin\Debug\CRUD_TEST.exe
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\bin\Debug\CRUD_TEST.pdb
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\obj\Debug\CRUD_TEST.csproj.AssemblyReference.cache
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\obj\Debug\CRUD_TEST.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\obj\Debug\CRUD_TEST.Properties.Resources.resources
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\obj\Debug\CRUD_TEST.Views.PetView.resources
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\obj\Debug\CRUD_TEST.csproj.GenerateResource.cache
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\obj\Debug\CRUD_TEST.csproj.CoreCompileInputs.cache
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\obj\Debug\CRUD_TEST.exe
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\obj\Debug\CRUD_TEST.pdb
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\obj\Debug\CRUD_TEST.Views.MainView.resources
