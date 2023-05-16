@@ -20,6 +20,7 @@ namespace CRUD_TEST.Presenters
             this.mainView = mainView;
             this.sqlConnectionString = sqlConnectionString;
             this.mainView.ShowPetView += ShowPetsView;
+            this.mainView.ShowViewLogin += ShowLoginView;
         }
 
         private void ShowPetsView(object sender, EventArgs e)
@@ -27,6 +28,13 @@ namespace CRUD_TEST.Presenters
             IPetView view = PetView.GetInstance((MainView)mainView);
             IPetRepository repository = new PetRepository(sqlConnectionString);
             new PetPresenter(view, repository);
+        }
+        
+        private void ShowLoginView(object sender, EventArgs e)
+        {
+            ILoginView view = LoginView.GetInstance((MainView)mainView);
+            ILoginRepository repository = new LoginRepository(sqlConnectionString);
+            new LoginPresenter(view, repository);
         }
     }
 }

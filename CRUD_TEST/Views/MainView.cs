@@ -16,11 +16,18 @@ namespace CRUD_TEST.Views
         {
             InitializeComponent();
             btnPet.Click += delegate { ShowPetView?.Invoke(this, EventArgs.Empty); };
+            btnViewLogin.Click += delegate { ShowViewLogin?.Invoke(this, EventArgs.Empty); };
+
+
 
         }
 
         public event EventHandler ShowPetView;
+        public event EventHandler ShowLoginView;
         public event EventHandler ShowOwnerView;
         public event EventHandler ShowView;
+        public event EventHandler ShowViewLogin;
+
+
     }
 }

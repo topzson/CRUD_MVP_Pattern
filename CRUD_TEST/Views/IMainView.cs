@@ -11,5 +11,7 @@ namespace CRUD_TEST.Views
         event EventHandler ShowPetView;
         event EventHandler ShowOwnerView;
         event EventHandler ShowView;
+        event EventHandler ShowViewLogin;
+
     }
 }

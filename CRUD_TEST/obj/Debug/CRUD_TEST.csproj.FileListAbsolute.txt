@@ -10,3 +10,16 @@ C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\obj\Debug\CRUD_TEST.c
 C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\obj\Debug\CRUD_TEST.exe
 C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\obj\Debug\CRUD_TEST.pdb
 C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\obj\Debug\CRUD_TEST.Views.MainView.resources
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\bin\Debug\Guna.UI2.dll
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\obj\Debug\CRUD_TEST.csproj.CopyComplete
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\bin\Debug\cimgui.dll
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\bin\Debug\ImGui.NET.dll
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\bin\Debug\System.Buffers.dll
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\bin\Debug\ImGui.NET.xml
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\bin\Debug\System.Buffers.xml
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rattatammanoon.P\source\repos\CRUD_TEST\CRUD_TEST\obj\Debug\CRUD_TEST.Views.LoginView.resources

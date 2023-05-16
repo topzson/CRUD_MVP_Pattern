@@ -30,6 +30,7 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.X_btn = new System.Windows.Forms.Button();
             this.Tap_table = new System.Windows.Forms.TabControl();
             this.tap_curd1 = new System.Windows.Forms.TabPage();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
@@ -50,7 +51,6 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.X_btn = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.Tap_table.SuspendLayout();
             this.tap_curd1.SuspendLayout();
@@ -64,9 +64,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label1.Location = new System.Drawing.Point(11, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(65, 25);
+            this.label1.Size = new System.Drawing.Size(68, 25);
             this.label1.TabIndex = 0;
-            this.label1.Text = "PETS";
+            this.label1.Text = "CRUD";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // panel1
@@ -80,6 +80,18 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(792, 42);
             this.panel1.TabIndex = 1;
+            // 
+            // X_btn
+            // 
+            this.X_btn.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.X_btn.Location = new System.Drawing.Point(753, 9);
+            this.X_btn.Name = "X_btn";
+            this.X_btn.Size = new System.Drawing.Size(27, 23);
+            this.X_btn.TabIndex = 8;
+            this.X_btn.Text = "X";
+            this.X_btn.UseVisualStyleBackColor = true;
             // 
             // Tap_table
             // 
@@ -288,18 +300,6 @@
             this.label3.Size = new System.Drawing.Size(34, 13);
             this.label3.TabIndex = 0;
             this.label3.Text = "PetID";
-            // 
-            // X_btn
-            // 
-            this.X_btn.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.X_btn.Location = new System.Drawing.Point(753, 9);
-            this.X_btn.Name = "X_btn";
-            this.X_btn.Size = new System.Drawing.Size(27, 23);
-            this.X_btn.TabIndex = 8;
-            this.X_btn.Text = "X";
-            this.X_btn.UseVisualStyleBackColor = true;
             // 
             // PetView
             // 

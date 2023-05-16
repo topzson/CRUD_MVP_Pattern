@@ -30,12 +30,13 @@
         {
             this.btnPet = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnViewLogin = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnPet
             // 
-            this.btnPet.Location = new System.Drawing.Point(12, 158);
+            this.btnPet.Location = new System.Drawing.Point(12, 106);
             this.btnPet.Name = "btnPet";
             this.btnPet.Size = new System.Drawing.Size(116, 42);
             this.btnPet.TabIndex = 0;
@@ -45,12 +46,23 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.panel1.Controls.Add(this.btnViewLogin);
             this.panel1.Controls.Add(this.btnPet);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(145, 450);
             this.panel1.TabIndex = 1;
+            // 
+            // btnViewLogin
+            // 
+            this.btnViewLogin.Location = new System.Drawing.Point(12, 165);
+            this.btnViewLogin.Name = "btnViewLogin";
+            this.btnViewLogin.Size = new System.Drawing.Size(116, 42);
+            this.btnViewLogin.TabIndex = 1;
+            this.btnViewLogin.Text = "Login";
+            this.btnViewLogin.UseVisualStyleBackColor = true;
+  
             // 
             // MainView
             // 
@@ -71,5 +83,6 @@
 
         private System.Windows.Forms.Button btnPet;
         private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Button btnViewLogin;
     }
 }
